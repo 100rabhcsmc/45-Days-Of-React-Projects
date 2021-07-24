@@ -1,6 +1,6 @@
 {
   "name": "day1",
-  "homepage": "https://100rabhcsmc.github.io/Day1-Question-Answer",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
