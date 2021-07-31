@@ -22,4 +22,4 @@ From day1(beginning) to day45 (professional).
 5) <a href="https://100rabhcsmc.github.io/45-Days-Of-React-Projects/Day5-relish-remainder/build">Day5-Relish-Remainder</a>
 6) <a href="https://100rabhcsmc.github.io/45-Days-Of-React-Projects/Day6-thought-log/build">Day6-Thought-Log</a>
 7) <a href="https://100rabhcsmc.github.io/45-Days-Of-React-Projects/Day7-vet-log/build">Day7-Vet-Log</a>
-2) <a href="https://100rabhcsmc.github.io/45-Days-Of-React-Projects/Day8-Drink-Order/build">Day8-Drink-Order</a>
+8) <a href="https://100rabhcsmc.github.io/45-Days-Of-React-Projects/Day8-Drink-Order/build">Day8-Drink-Order</a>
