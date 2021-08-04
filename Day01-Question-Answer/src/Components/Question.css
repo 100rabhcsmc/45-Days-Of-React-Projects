@@ -1,0 +1,17 @@
+
+body{
+    color:#47476b;
+    background:#e0e0eb
+}
+div.main{
+    margin:90px;
+    color:#ff668c;
+}
+p{
+    font-size: large;
+}
+
+button{
+    background-color:#ccffb3;
+    border-radius: 2rem; 
+}  
