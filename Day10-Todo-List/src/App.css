@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.App{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(121, 214, 128);
+}
+.wrapper{
+    
+    width: 300px;
+    text-align: center;
+    padding: 1rem 0;
+    border-radius: 14px;
+    background-color: rgb(228, 116, 178);
+    box-shadow: 0 0.3rem 0.3rem black;
+}
+h1{
+    background-color:#526166;
+    margin-bottom: 1rem;
+}
+h2{
+  font-size: 2rem;
+  background-color: grey;
+  margin-bottom: 1.5rem;
+}
+.input-wrapper{
+    width: 100%;
+}
+.input-wrapper input{
+    background-color: rgb(228, 116, 178);
+    width: 50%;
+    height: 1.5rem;
+    border: 0;
+    border-bottom: 2px solid black;
+    outline: none;
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+}
+.input-wrapper input:focus{
+    border-bottom-color:#e60099;
+}
+button{
+    font-size: 2.2rem;
+    width: 2.5rem;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 1rem;
+    border: 0;
+    cursor: pointer;
+    background-color: lightblue;
+    transition: 0.5s;
+}
+button:hover{
+    background-color: lightseagreen;
+}
+button:active{
+    background-color: lightblue;
+}
+ul{
+    list-style: none;
+    text-align: left;
+    margin-top: 1.5rem;
+}
+ul li{
+    font-size: 2rem;
+    font-weight: bold;
+    /* color:lightgreen; */
+}
+.list-style{
+    padding:1rem 1rem;
+    display: flex;
+    align-items: center;
+}
+.list-style i{
+    background-color: #ff4d4d;
+    margin-right: 1rem;
+    width: 1.8rem;
+    height: 1.8rem;
+    display: grid;
+    place-items: center;  
+    font-size: 1.5rem;
+    border-radius: 50%;
+    cursor: pointer;
+    transform: 0.5s;
+}
+.list-style i:hover{
+    background-color:  #ff1a1a;
+}
