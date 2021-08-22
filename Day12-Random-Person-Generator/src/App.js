@@ -30,7 +30,13 @@ const App = () => {
   }, []);
 
   return (
-    <div className="App">
+    <div>
+      <div className='title'>
+        <h1>45 Days Of React Projects</h1>
+        <p>Day12 / Random People Generator</p>
+        
+      </div>
+      <div className="App">
       <div className="Card">
         <img src={profile} alt="profile pictures" />
         <h3><i className="fa fa-user-o" aria-hidden="true"></i>  {name}</h3>
@@ -39,6 +45,7 @@ const App = () => {
       </div>
       <button onClick={Getdata}>New Person</button>
     </div>
+  </div>  
   );
 };
 
