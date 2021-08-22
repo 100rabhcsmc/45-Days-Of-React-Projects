@@ -33,7 +33,7 @@ const App = () => {
     <div>
       <div className='title'>
         <h1>45 Days Of React Projects</h1>
-        <p>Day12 / Random People Generator</p>
+        <p>Day12 / Random Peoples Generator</p>
         
       </div>
       <div className="App">
