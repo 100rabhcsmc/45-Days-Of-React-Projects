@@ -26,3 +26,4 @@ From day1(beginning) to day45 (professional).
 9) <a href="https://100rabhcsmc.github.io/45-Days-Of-React-Projects/Day09-Self-Service-Cafe/build/">Day9-Self-Service-Cafe</a>
 10)  <a href="https://100rabhcsmc.github.io/45-Days-Of-React-Projects/Day10-Todo-List/build/">Day10-Todo-List</a>
 11)  <a href="https://100rabhcsmc.github.io/45-Days-Of-React-Projects/Day11-Weather-App/build/">Day11-Weather-App</a>
+12)  <a href="https://100rabhcsmc.github.io/45-Days-Of-React-Projects/Day12-Random-Person-Generator/build/">Day12-Random-Person-Generator</a>
